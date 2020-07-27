@@ -1,5 +1,6 @@
 ```rust runnable
 fn main() {
-    println!("Hello World!");
+    plet v1: Vector<u32> = Vec::new();
+    println!("{?:}", v1);
 }
 ```
